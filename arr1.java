@@ -1,3 +1,5 @@
+
+// smallest number in an array
 import java.util.*;
 
 public class arr1 {
@@ -22,3 +24,4 @@ public class arr1 {
         sc.close();
     }
 }
+
